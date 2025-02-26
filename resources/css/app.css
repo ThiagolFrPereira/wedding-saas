@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+input[type="color"] {
+    width: 100px;
+    height: 40px;
+    border: none;
+    padding: 5px;
+}
